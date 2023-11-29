@@ -12,8 +12,8 @@
 
 
  ### LinkedIn
- [`https://www.linkedin.com/in/BrentCubbage1/`](https://www.linkedin.com/in/BrentCubbage1)
+ [https://www.linkedin.com/in/BrentCubbage1/](https://www.linkedin.com/in/BrentCubbage1)
 
 
 ### Email
- [`BrentCubbage1@gmail.com`](mailto:BrentCubbage1@gmail.com)
+ [BrentCubbage1@gmail.com](mailto:BrentCubbage1@gmail.com)
